@@ -1,0 +1,1 @@
+# Service for testing "Kafka service"
